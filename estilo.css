@@ -9,11 +9,15 @@ h1{
 #segundo{
     color: orange;
 }
+/*
+#é para id
+*/
 #terceiro{
     color: hotpink;
 }
 /*
-Comentarios em css
+. é para class
+todas as tags a com a class link terão essa configuração
 */
 a.link{
     color: green;
