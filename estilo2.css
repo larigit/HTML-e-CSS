@@ -1,0 +1,48 @@
+a:hover{
+    text-decoration: underline;
+}
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#wrap{
+    width:960px;
+    margin: auto;
+    background: #070707;
+    padding:10px 20px;
+    color:cornsilk;
+}
+header h1{
+    /*padding: top direita baixo esquerda;*/
+    background: #2a2e30;
+    color: aliceblue;
+    height: 200px;
+    width: 900px;
+}
+
+header nav ul{
+    list-style:none;
+    padding-left: 0;
+}
+header nav ul li{
+    display: inline-block;
+    margin-right: 10px;
+}
+header nav ul li a{
+    font-size: 18px;
+    color:rgb(210, 210, 210);
+    text-decoration: none;
+}
+
+aside ul li a{
+    color:rgb(60, 143, 64);
+    text-decoration: dotted;
+}
+#content{
+    float: left;
+}
+#sidebar{
+    float:right;
+}
+footer{
+    clear: both;
+}
