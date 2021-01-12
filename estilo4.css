@@ -1,0 +1,18 @@
+h1{
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 3px 1px 3px rgb(102, 99, 99);
+    font-size: 50px;
+}
+body{
+    color: white;
+    background: black;
+}
+p{
+    /*width: 650px;*/
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/*mais fontes em google fonts*/
