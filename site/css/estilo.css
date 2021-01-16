@@ -1,0 +1,68 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+ /*grid 960px 
+ 960/12=80px
+ para ter espaçamento entre colunas, cada coluna terá 60px, e espaçamento de 10px de cada lado*/
+ .linha{
+     width: 960px;
+     margin: 0 auto;
+     overflow: auto;
+     padding: 5px 0;
+
+ }
+ ul{
+    list-style-type: none;
+    padding: 0;
+ }
+ li{
+    list-style-type: none;
+    color: rgb(65, 156, 149);
+ }
+ .coluna{
+     padding: 0 10px;
+     float: left;
+ }
+#titulo{
+    background-color: lightcoral;
+}
+ .col{
+     padding: 0 25px;
+ }
+.col1{
+    width: 60px;
+}
+/*o tamanho da anterior mais 80*/
+.col2{
+    width: 140px;
+}
+.col3{
+    width: 220px;
+}
+.col4{
+    width: 300px;
+}
+.col5{
+    width: 380px;
+}
+.col6{
+    width: 460px;
+}
+.col7{
+    width: 540px;
+}
+.col8{
+    width: 620px;
+}
+.col9{
+    width: 700px;
+}
+.col10{
+    width: 780px;
+}
+.col11{
+    width: 860px;
+}
+.col12{
+    width: 940px;
+}
