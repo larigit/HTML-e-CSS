@@ -25,6 +25,17 @@ body{
  }
 #titulo{
     background-color: lightcoral;
+    height: 60px;
+    width: 1380px;
+}
+#desloca{
+    margin: 10px 200px;
+    font-size: xx-large;
+    font-weight: 350;
+}
+#desloca2{
+    margin: 20px -180px;
+    width: 700px;
 }
  .col{
      padding: 0 25px;
